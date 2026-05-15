@@ -2,9 +2,9 @@
 
 ## Student Information
 
-* Name: ____________________
-* Student ID: ____________________
-* Date: ____________________
+* Name: 레이션보
+* Student ID: 25141194
+* Date: 2026.5.15
 
 ---
 
@@ -277,7 +277,7 @@ Through this project, I learned:
 
 ## Author
 
-- Name: ____________________
-- Student ID: ____________________
+- Name: 레이션보
+- Student ID: 25141194
 
 ```
